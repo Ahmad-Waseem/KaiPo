@@ -1,2 +1,2 @@
-# KaiPo
-Kite Based Hyper-Casual Game with potential In-Game-Advertisement -- Themed on Nostalgia
+# Kibo-3D-Game
+A 3D hyper casual game, attempting to recreate nostalgic theme.
